@@ -1,5 +1,6 @@
 h1{
     color: rgb(173, 255, 47);
+    
 }
 h2 {
     color: indigo;
@@ -11,4 +12,7 @@ ul {
     color: brown;
     font-style: italic;
     font-weight: 400;
+}
+img {
+    align-items: center;
 }
