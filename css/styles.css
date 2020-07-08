@@ -1,0 +1,14 @@
+h1{
+    color: rgb(173, 255, 47);
+}
+h2 {
+    color: indigo;
+}
+p {
+    color: blue;
+}
+ul {
+    color: brown;
+    font-style: italic;
+    font-weight: 400;
+}
