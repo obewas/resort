@@ -1,18 +1,16 @@
-h1{
-    color: rgb(173, 255, 47);
+#menu li {
+    text-decoration: none;
+    display: inline;
+    color: brown;
+    padding-right: 40px;
     
 }
-h2 {
-    color: indigo;
+.container h1 {
+    color: maroon;
+    text-align: center  
+    
+    
 }
-p {
-    color: blue;
-}
-ul {
-    color: brown;
-    font-style: italic;
-    font-weight: 400;
-}
-img {
-    align-items: center;
+hr {
+    padding: 0;
 }
